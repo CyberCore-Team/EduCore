@@ -1,0 +1,24 @@
+body {
+    background: white;
+}
+
+aside {
+    float: left;
+    background: black;
+    width: 100vw;
+    padding:
+    height: 100vh;
+    color: white;
+    border-down: 5px solid red;
+
+}
+.Butrightreg{
+    float: right;
+    color: white;
+    margin-right: 15px;
+}
+.Butleftlog{
+    float: right;
+    color: white;
+    margin-right: 25px;
+}
